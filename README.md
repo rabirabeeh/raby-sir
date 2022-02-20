@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/Q8UeA57.png>
+<img src=https://linksharing.samsungcloud.com/dq6WV41PjiuJ>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+AMRUSIR+WA+BOT+REPO;CREATED+BY+AMRU+SIR;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
+<img src=https://linksharing.samsungcloud.com/dq6WV41PjiuJ>
 </p>
 
 <img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
